@@ -4,7 +4,7 @@
 Organismos Bioluminiscentes
 
 ## Q2. Brevemente describe qué piensas hacer en tu proyecto
-Haré una comparación entre los distintos tipos de bioluminiscencia presentes en varios grupos de organismos, analizando sus características principales, funciones y posibles orígenes evolutivos.
+Haré un repositorio donde explicaré y mostraré, mediante imágenes, los distintos tipos de bioluminiscencia presentes en varios grupos de organismos. Realizaré una pequeña investigación previa para analizar sus características principales, posibles orígenes evolutivos, ofreciendo así una visión integrada y visualmente atractiva del fenómeno de la bioluminiscencia.
 
 ## Q3. ¿Qué programas voy a usar en mi proyecto?
 - Git & GitHub
