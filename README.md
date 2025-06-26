@@ -8,6 +8,8 @@ Haré un repositorio donde explicaré y mostraré, mediante imágenes, los disti
 
 ## Q3. ¿Qué programas voy a usar en mi proyecto?
 - Git & GitHub
+- FigTree
+- Atom
 
 ## Q4. Sube una foto que represente tu organismo o grupo de organismos
 ![Organismos bioluminiscentes](https://i.pinimg.com/736x/50/6a/e1/506ae1460757b2be503fa4e010823a36.jpg)
